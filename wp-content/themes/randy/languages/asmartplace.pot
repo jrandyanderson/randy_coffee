@@ -1,8 +1,8 @@
-# Copyright (C) 2020 asmartplace
-# This file is distributed under the same license as the asmartplace package.
+# Copyright (C) 2020 randy_coffee
+# This file is distributed under the same license as the randy_coffee package.
 msgid ""
 msgstr ""
-"Project-Id-Version: asmartplace\n"
+"Project-Id-Version: randy_coffee\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
