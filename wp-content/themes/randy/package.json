@@ -29,6 +29,6 @@
     "gulp-zip": "^5.0.1",
     "vinyl-named": "^1.1.0",
     "webpack-stream": "^5.2.1",
-    "yargs": "^15.1.0"
+    "yargs": "^15.3.1"
   }
 }
